@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS16-Cle-dynamique/)
+[Live Demo](https://ocrzia.github.io/JS17-Commandes-table/)
